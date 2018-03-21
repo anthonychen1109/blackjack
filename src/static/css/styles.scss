@@ -1,0 +1,11 @@
+.dealer, .player {
+  height: 50vh;
+  text-align: center;
+}
+
+.card-buttons {
+  button {
+    margin: 5px;
+    min-width: 80px;
+  }
+}
